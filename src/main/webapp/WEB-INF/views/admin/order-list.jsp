@@ -225,7 +225,7 @@
                         <a class="nav-link active" href="${pageContext.request.contextPath}/admin/orders"><i class="fa-solid fa-file-invoice-dollar me-1"></i> Đơn hàng</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#"><i class="fa-solid fa-chart-line me-1"></i> Thống kê</a>
+                        <a class="nav-link" href="${pageContext.request.contextPath}/admin/statistics"><i class="fa-solid fa-chart-line me-1"></i> Thống kê</a>
                     </li>
                 </ul>
                 <div class="d-flex text-muted align-items-center">

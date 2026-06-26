@@ -4,6 +4,7 @@ C:\Users\qank0\IdeaProjects\javaweb\src\main\java\com\example\javaweb\config\Web
 C:\Users\qank0\IdeaProjects\javaweb\src\main\java\com\example\javaweb\controller\admin\CategoryAdminController.java
 C:\Users\qank0\IdeaProjects\javaweb\src\main\java\com\example\javaweb\controller\admin\OrderAdminController.java
 C:\Users\qank0\IdeaProjects\javaweb\src\main\java\com\example\javaweb\controller\admin\ProductAdminController.java
+C:\Users\qank0\IdeaProjects\javaweb\src\main\java\com\example\javaweb\controller\admin\StatisticsAdminController.java
 C:\Users\qank0\IdeaProjects\javaweb\src\main\java\com\example\javaweb\controller\admin\UserAdminController.java
 C:\Users\qank0\IdeaProjects\javaweb\src\main\java\com\example\javaweb\controller\user\AuthController.java
 C:\Users\qank0\IdeaProjects\javaweb\src\main\java\com\example\javaweb\controller\user\CartController.java
@@ -33,9 +34,11 @@ C:\Users\qank0\IdeaProjects\javaweb\src\main\java\com\example\javaweb\service\im
 C:\Users\qank0\IdeaProjects\javaweb\src\main\java\com\example\javaweb\service\impl\NewsArticleServiceImpl.java
 C:\Users\qank0\IdeaProjects\javaweb\src\main\java\com\example\javaweb\service\impl\OrderServiceImpl.java
 C:\Users\qank0\IdeaProjects\javaweb\src\main\java\com\example\javaweb\service\impl\ProductServiceImpl.java
+C:\Users\qank0\IdeaProjects\javaweb\src\main\java\com\example\javaweb\service\impl\StatisticsServiceImpl.java
 C:\Users\qank0\IdeaProjects\javaweb\src\main\java\com\example\javaweb\service\impl\UserServiceImpl.java
 C:\Users\qank0\IdeaProjects\javaweb\src\main\java\com\example\javaweb\service\NewsArticleService.java
 C:\Users\qank0\IdeaProjects\javaweb\src\main\java\com\example\javaweb\service\OrderService.java
 C:\Users\qank0\IdeaProjects\javaweb\src\main\java\com\example\javaweb\service\ProductService.java
+C:\Users\qank0\IdeaProjects\javaweb\src\main\java\com\example\javaweb\service\StatisticsService.java
 C:\Users\qank0\IdeaProjects\javaweb\src\main\java\com\example\javaweb\service\UserService.java
 C:\Users\qank0\IdeaProjects\javaweb\src\main\java\com\example\javaweb\util\PasswordUtil.java

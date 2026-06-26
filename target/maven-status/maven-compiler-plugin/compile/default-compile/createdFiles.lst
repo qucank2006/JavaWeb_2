@@ -1,9 +1,11 @@
+com\example\javaweb\controller\admin\StatisticsAdminController.class
 com\example\javaweb\repository\UserRepository.class
 com\example\javaweb\controller\user\AuthController.class
 com\example\javaweb\entity\NewsArticle.class
 com\example\javaweb\repository\CategoryRepository.class
 com\example\javaweb\controller\admin\CategoryAdminController.class
 com\example\javaweb\repository\OrderDetailRepository.class
+com\example\javaweb\service\impl\StatisticsServiceImpl.class
 com\example\javaweb\controller\user\ContactController.class
 com\example\javaweb\entity\Order.class
 com\example\javaweb\repository\ProductRepository.class
@@ -36,6 +38,7 @@ com\example\javaweb\controller\user\OrderController.class
 com\example\javaweb\service\impl\ProductServiceImpl.class
 com\example\javaweb\controller\user\ProductUserController.class
 com\example\javaweb\model\Cart.class
+com\example\javaweb\service\StatisticsService.class
 com\example\javaweb\service\CategoryService.class
 com\example\javaweb\service\impl\OrderServiceImpl.class
 com\example\javaweb\entity\User.class
